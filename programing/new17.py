@@ -1,0 +1,5 @@
+name = input("enter your name")
+print(f"hello {name}")
+language =input("whats your favourite lannguage")
+print(f"your avourite langiage is {language}")
+print(f"your name has{len(name)} characters")

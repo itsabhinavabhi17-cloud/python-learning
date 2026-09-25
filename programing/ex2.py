@@ -1,0 +1,6 @@
+print("hello")
+print("hei iam here")
+print("i like typing this")
+print("this is fun")
+print("yay printing")
+print("so exicting")
